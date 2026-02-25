@@ -54,11 +54,17 @@ GPT‑4o generates a grounded answer only from retrieved documents
 
 🏗️ Project Structure
 Rag_Chatbot/
+
 ├── app.py            # Streamlit chatbot UI
+
 ├── ingest_pdf.py     # PDF ingestion & indexing
+
 ├── config.py         # Azure configuration
+
 ├── requirements.txt  # Dependencies
+
 ├── files/            # Source PDFs
+
 └── README.md
 
 🚀 Running the Project
@@ -83,3 +89,4 @@ Document‑grounded answers
 Streaming chat interface
 Suggested questions for demos
 This project demonstrates an end‑to‑end, production‑ready RAG pipeline using Azure services.
+
