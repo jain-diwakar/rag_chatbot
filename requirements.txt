@@ -1,0 +1,4 @@
+streamlit==1.53.1
+openai==2.9.0
+azure-search-documents==11.6.0
+azure-core==1.36.0
